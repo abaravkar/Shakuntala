@@ -1,0 +1,14 @@
+/.env*
+!/.env.example
+/*.zip
+/*.cjs
+/reference/
+/output/
+**/.env
+**/.env.*
+!**/.env.example
+**/*.sqlite
+**/*.sqlite-*
+**/*.sql
+**/*.pem
+**/*.key
